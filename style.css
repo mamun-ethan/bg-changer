@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all 0s;
+}
+
+
+
+button {
+
+font-size: 16px;
+    padding: 11px 46px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    background: #ff7e12;
+    border: none;
+    border-radius: 6px;
+   
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    flex-direction: column;
+}
